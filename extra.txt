@@ -1,0 +1,12 @@
+App Id : 1284030542192213
+
+App secret : 85a322b17e76be286ffc5549f572e63b
+
+
+Create a route in your app such as: http://localhost:5000/auth/facebook/
+Add this route to your Facebook App’s settings under Valid OAuth Redirect URIs.
+
+
+➡️ http://www.passportjs.org/packages/passport-github/  -> source used for authenticating user through github
+
+
